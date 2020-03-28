@@ -1,0 +1,18 @@
+/* RESETS */
+* {
+    /*border: 1px solid rgb(243,29,29);
+    background-color: rgba(243,29,29,0.1); */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    margin-top: 20px;
+    margin-right: 40 px;
+    margin-bottom: 60 px;
+    margin-left: 80 px;
+    border-width: 2px;
+    border-width: groove;
+
+}
